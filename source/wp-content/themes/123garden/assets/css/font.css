@@ -1,0 +1,56 @@
+body{
+	font-family: 'museo-slab', serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6{
+	font-family: 'museo-slab', serif;
+}
+.tagcloud a, .tags a{
+	font-family: 'Lato', sans-serif;
+}
+.cart-icon .count{
+	font-family: 'Lato', sans-serif;
+}
+.wpml-switcher a,
+.wpml-switcher .current-lang{
+	font-family: 'Lato', sans-serif;
+}
+.mh2_description.mh2-font-style,
+.mh2_content.mh2-font-style{
+	font-family: 'Lato', sans-serif;
+}
+#title-breadcrumb span{
+	font-family: 'Lato', sans-serif;
+}
+.mh_description.mh-font-style{
+	font-family: 'Lato', sans-serif;
+}
+.lpd-b-content{
+	font-family: 'Lato', sans-serif;
+}
+.cc-cat-list > li > a{
+	font-family: 'Lato', sans-serif;
+}
+.member-position{
+	font-family: 'Lato', sans-serif;
+}
+.lpd-testimonial h5{
+	font-family: 'Lato', sans-serif;
+}
+#menuMega .label,
+#footer-meta .label{
+	font-family: 'Lato', sans-serif;
+}
+.font_type_2{
+	font-family: 'Lato', sans-serif;
+}

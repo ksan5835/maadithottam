@@ -1,0 +1,7 @@
+<wpml-config>
+	<custom-fields>
+		<custom-field action="copy">variation_image_gallery</custom-field>
+		<custom-field action="copy">disable_woothumbs</custom-field>
+		<custom-field action="copy">_jck_wt</custom-field>
+	</custom-fields>
+</wpml-config>
