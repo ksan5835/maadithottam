@@ -23,3 +23,71 @@
 @import "assets/menu/menu3d.css";
 @import "assets/menu/animate.css";
 @import "assets/css/picons-social.css";
+
+
+.widget_product_categories .title{
+	padding-bottom:15px;
+	padding-top:15px;
+	background-color:#66ab36;
+	border-bottom:3px solid rgba(255, 255, 255, 0.3);
+	color:#fff;
+	text-align:center;
+	margin-top:0;
+	margin-bottom:20px;
+}
+
+
+
+.product_categories{
+    border: 3px solid #ebebeb;
+    padding: 20px 15px !important;
+}
+
+
+
+.nz-i-list {
+    list-style: outside none none;
+}
+
+.nz-i-list li {
+    display: table;
+}
+
+
+.nz-i-list > li > div {
+    display: table-cell;
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+}
+
+
+.nz-i-list.circle span.icon {
+    border-radius: 50%;
+}
+.nz-i-list.circle span.icon, .nz-i-list.square span.icon {
+    font-size: 10px;
+    height: 20px;
+    line-height: 20px !important;
+    width: 20px;
+}
+.nz-i-list.square span.icon, .nz-i-list.circle span.icon {
+    margin-top: 2px;
+}
+.nz-i-list span.icon {
+    display: block;
+    font-size: 12px;
+    line-height: 25px !important;
+    margin: 6px 10px 0 0;
+    text-align: center;
+}
+[class*=" icon-"], [class^="icon-"] {
+    font-family: icomoon;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 1;
+    text-transform: none;
+}
+
+   
