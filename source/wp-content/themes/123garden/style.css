@@ -90,4 +90,31 @@
     text-transform: none;
 }
 
+
+.about p{color:#FFF}
+
+
+.about li{
+	font-size:15px;
+	color:#888;
+	padding:7px 0;
+	background:url(http://localhost/maddithottam/wp-content/uploads/2016/08/arrow.png) no-repeat 0px;
+	padding-left:15px;
+	cursor: pointer;
+}
+.about li:hover{
+	color:#7EA916;
+}
+
+
+ol, ul {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+
+
+.about_heading h4{
+	font-size:25px !important; 
+	}
    
