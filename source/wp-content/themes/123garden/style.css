@@ -118,3 +118,62 @@ ol, ul {
 	font-size:25px !important; 
 	}
    
+
+ul.lpd-products li .li-wrap {
+    background-color: #fff;
+    border: 1px solid #ebebeb;
+    margin: 5px !important;
+}
+
+
+
+.mi-slider nav a.mi-selected::before {
+    border-color: #66ab36 transparent transparent !important;
+    border-width: 27px;
+    left: 50%;
+    margin-left: -27px;
+}
+
+.mi-slider nav {
+    border-top: 1px solid #66ab36 !important;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    top: 350px;
+}
+
+
+
+.mi-slider nav a {
+    color: #119a49 !important;
+    display: inline-block;
+    outline: medium none;
+    padding: 40px 30px 20px;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: color 0.2s linear 0s;
+}
+
+
+#footer-bottom {
+    background-color: #66ab36 !important;
+    padding: 7px 0 !important;
+}
+
+
+.copyright {
+    color: #ffffff!important;
+    margin: 0;
+    padding: 15px 0;
+    text-align: right;
+}
+
+
+.customebanner{
+    margin-left: -30px!important;
+    margin-right: -33px!important;
+}
+
+
+
